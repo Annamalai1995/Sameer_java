@@ -1,6 +1,5 @@
 package Fundamental.Exception;
 
-import javax.imageio.stream.ImageInputStream;
 
 public class ThrowsEx {
     public void analysis()
